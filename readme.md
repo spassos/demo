@@ -53,6 +53,8 @@
 
     git pull origin master
 
+### Alterei
+
 Author: Sérgio Passos
 Github: https://github.com/spassos
 
